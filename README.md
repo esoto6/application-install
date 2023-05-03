@@ -1,2 +1,3 @@
-# application-install
-Tool to update newly imaged pcs with predefined applications.
+# Applicacation Install Script
+
+PowerShell script used to simplify installation of apps for a newly imaged pc.
