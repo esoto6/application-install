@@ -81,7 +81,7 @@ Function Install-DefaultApps {
         @{name = "WinDirStat.WinDirStat" },
         @{name = "Mozilla.Firefox" },
         @{name = "VideoLAN.VLC" },
-        @{name = "voidtools.Everything" },
+        @{name = "voidtools.Everything" }
     )
 
     Write-Host
